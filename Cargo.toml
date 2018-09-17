@@ -1,0 +1,12 @@
+[package]
+name = "dexd"
+version = "0.1.0"
+authors = ["Shane Isbell <shane.isbell@gmail.com>"]
+repository = "https://github.com/sisbell/dexd"
+readme = "README.md"
+description="Program to diff dex class files"
+license="Apache-2.0"
+
+[dependencies]
+byteorder = "1.2.4"
+clap = "2.32.0"
